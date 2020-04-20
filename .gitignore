@@ -1,0 +1,19 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+
+/node_modules
+/client/node_modules
+/client/build
+/server/node_modules
+
+# testing
+
+# production
+/build
+
+# misc
+
+yarn.lock
+package-lock.json
+server.json
